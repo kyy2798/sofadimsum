@@ -213,40 +213,40 @@
 </header>
 
 <main class="container">
-    <!-- Card 1: Siomay -->
+    <!-- Card 1: Dimsum -->
     <div class="card">
-        <!-- Menggunakan Picsum dengan seed 'siomay' agar gambar konsisten -->
-        <img src="https://picsum.photos/seed/siomay/300/200" alt="Siomay Ayam">
+        <!-- Menggunakan Picsum dengan seed 'dimsum' agar gambar konsisten -->
+        <img src="dimsum.jpg" alt="dimsum">
         <div class="card-content">
             <div>
-                <h3 class="name-1">Siomay Ayam</h3>
-                <p class="desc-1">Siomay ayam lembut dengan saus pilihan.</p>
+                <h3 class="name-1">Dimsum</h3>
+                <p class="desc-1">Dimsum yang lembut dengan saus pilihan.</p>
             </div>
             <div>
                 <div class="price">Rp 20.000</div>
-                <a href="#" class="btn-wa order-btn" onclick="sendWA('Siomay Ayam')">Pesan Sekarang ✨</a>
+                <a href="#" class="btn-wa order-btn" onclick="sendWA('Dimsum')">Pesan Sekarang ✨</a>
             </div>
         </div>
     </div>
 
     <!-- Card 2: Hakau -->
     <div class="card">
-        <img src="https://picsum.photos/seed/hakau/300/200" alt="Hakau Udang">
+        <img src="hakau.jpg" alt="hakau">
         <div class="card-content">
             <div>
-                <h3 class="name-2">Hakau Udang</h3>
-                <p class="desc-2">Kulit transparan dengan udang utuh di dalamnya.</p>
+                <h3 class="name-2">Hakau</h3>
+                <p class="desc-2">Kulit transparan dengan isian daging di dalamnya.</p>
             </div>
             <div>
                 <div class="price">Rp 25.000</div>
-                <a href="#" class="btn-wa order-btn" onclick="sendWA('Hakau Udang')">Pesan Sekarang ✨</a>
+                <a href="#" class="btn-wa order-btn" onclick="sendWA('Hakau')">Pesan Sekarang ✨</a>
             </div>
         </div>
     </div>
 
-    <!-- Card 3: Bakpao -->
+    <!-- Card 3: Bakpao Telur Asin -->
     <div class="card">
-        <img src="https://picsum.photos/seed/bakpao/300/200" alt="Bakpao Telur Asin">
+        <img src="telurasin.jpg" alt="Bakpao Telur Asin">
         <div class="card-content">
             <div>
                 <h3 class="name-3">Bakpao Telur Asin</h3>
